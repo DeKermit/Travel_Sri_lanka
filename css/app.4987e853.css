@@ -46,11 +46,7 @@
     }
     
     .desc {
-        position: absolute;
-        top: 220px;
         padding: 90px 82px;
-        z-index: 6;
-        width: 55%;
         font-size: 12px;
     }
 }

@@ -36,6 +36,11 @@
     }
 }
 
+@media (width: 2560px)
+.desc {
+    font-size: 30px;
+}
+
 @media screen and (max-width: 1366px){
     .text {
         font-size: 16px;

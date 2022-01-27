@@ -6,7 +6,7 @@
     }
 }
 
-@media  (width: 2560px){
+@media screen and (width: 2560px){
     .covid {
         bottom: 320px;
         transform: scale(1.5);

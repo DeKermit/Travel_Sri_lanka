@@ -1,5 +1,5 @@
-<p style="text-align: center;"># Travel Website</p>    
-## Just a travel site made with Vue
+# Travel Sri Lanka
+### Vue.Js project on travelling with some neat features
 
 [![Vue.JS](https://v2.vuejs.org/images/logo.svg)](https://vuejs.org/)
 

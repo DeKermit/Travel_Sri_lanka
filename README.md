@@ -3,7 +3,7 @@
 
 [![Vue.JS](https://v2.vuejs.org/images/logo.svg)](https://vuejs.org/)
 
-Just a portfolio made with Vue LMAO
+Just a travel website made with Vue LMAO
 
 ✨Magic ✨
 

@@ -1,7 +1,8 @@
 # Travel Sri Lanka
 ### Vue.Js project on travelling with some neat features
 
-[![Vue.JS](https://v2.vuejs.org/images/logo.svg)](https://vuejs.org/)
+Visit the Site!
+https://dekermit.github.io/Travel_Sri_lanka/
 
 Just a travel website made with Vue LMAO
 
